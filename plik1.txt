@@ -3,3 +3,5 @@
 zmiana 2
 
 galaz main
+
+galaz test
